@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Documento senza titolo</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>Portfolio Zaccaria</h1>
+<div class="card" style="width: 18rem;"> 
+<img src="img 1.jpg" class="card-img-top" alt="">
+  <div class="card-body">
+  <p class="card-text"> Progetti 3B</p>
+</div>
+</div>
+<div class="card" style="width: 18rem;"> 
+<img src="img 1.jpg" class="card-img-top" alt="">
+  <div class="card-body">
+  <p class="card-text">Progetti 4B</p>
+</div>
+</div>
+<div class="card" style="width: 18rem;"> 
+<img src="img 1.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+  <p class="card-text">Progetti 5B</p>
+</div>
+</div>
+</body>
+</html>
